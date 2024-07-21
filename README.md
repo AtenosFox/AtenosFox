@@ -11,8 +11,6 @@ I'm a Data Engineer specializing in the development and optimization of data pro
 
 ## 🛠 Technologies and tools
 
-Translated with DeepL.com (free version)
-
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/-Airbyte-007ACC?style=flat&logo=Airbyte&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
