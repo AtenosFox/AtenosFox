@@ -1,18 +1,17 @@
-# Привет, я Artem 👋
+# Hi, I'm Artem 👋
 
-Я Data Engineer, специализирующийся на разработке и оптимизации систем обработки данных.
+I'm a Data Engineer specializing in the development and optimization of data processing systems.
 
-## 🧑‍💻 Обо мне
+## 🧑‍💻 About me
 
-- 🔭 Сейчас я работаю над проектами, связанными с оптимизацией данных в средах Greenplum и ClickHouse и развитием аналитического хранилища данных.
-- 🌱 Активно изучаю и внедряю инструменты для потоковой передачи данных, такие как Airbyte.
-- 👯 Ищу возможности для сотрудничества в области анализа больших данных и построения pipelines.
-- 🤔 Нуждаюсь в советах по расширению применения DBT в сложных проектах.
-- 💬 Спросите меня о любых аспектах работы с PostgreSQL и Greenplum.
-- 📫 Связаться со мной можно в telegram @AtenosFox.
-- ⚡ Интересный факт: Я увлекаюсь изучением Data Governance, сейчас занимаюсь внедрением DataHub.
+- 🔭 Now I am working on projects related to data optimization in Greenplum and ClickHouse environments and analytical data warehouse development.
+- 🌱 Actively exploring and implementing data streaming tools such as Airbyte.
+- 🤔 Need advice on extending the use of DBT in complex projects.
+- ⚡ Interesting fact: I'm passionate about learning Data Governance, currently working on DataHub implementation.
 
-## 🛠 Технологии и инструменты
+## 🛠 Technologies and tools
+
+Translated with DeepL.com (free version)
 
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/-Airbyte-007ACC?style=flat&logo=Airbyte&logoColor=white)
@@ -26,15 +25,11 @@
 
 
 
-## ⚙️ GitHub Analytics
-
 <p align="left">
 <a href="https://github.com/atenosfox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atenosfox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atenosfox&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
-## 🤝 Социальные сети
 
-Telegram @AtenosFox
+📫 Contact me at telegram @AtenosFox
